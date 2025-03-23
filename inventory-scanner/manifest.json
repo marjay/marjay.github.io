@@ -1,20 +1,30 @@
 {
-    "short_name": "Inventory",
-    "name": "Inventory Scanner",
-    "icons": [
-      {
-        "src": "/favicon-512x512.png",
-        "sizes": "512x512",
-        "type": "image/png"
-      },
-      {
-        "src": "/favicon-128x128.png",
-        "sizes": "128x128",
-        "type": "image/png"
-      }
-    ],
-    "start_url": ".",
-    "display": "standalone",
-    "theme_color": "#5f00c0",
-    "background_color": "#161215"
-  }
+  "short_name": "Inventory",
+  "name": "Inventory Scanner",
+  "description": "Track your products and inventory efficiently.",
+  "categories": [
+    "productivity",
+    "utilities",
+    "food",
+    "shopping"
+  ],
+  "icons": [
+    {
+      "src": "/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "inventory-site.jpg",
+      "sizes": "1080x2400",
+      "type": "image/jpeg",
+      "form_factor": "narrow"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#5f00c0",
+  "background_color": "#161215"
+}
