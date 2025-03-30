@@ -23,7 +23,7 @@
       "form_factor": "narrow"
     }
   ],
-  "start_url": ".",
+  "start_url": "/inventory-scanner/",
   "display": "standalone",
   "theme_color": "#5f00c0",
   "background_color": "#161215"
